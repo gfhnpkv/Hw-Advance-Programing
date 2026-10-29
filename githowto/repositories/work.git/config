@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = /Users/danielbenporat/Documents/Documents - Daniel’s MacBook Air/שנה ב סימסטר א/תכנות מתקדם/שיעורי בית/githowto/repositories/work
